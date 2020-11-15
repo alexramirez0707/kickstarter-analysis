@@ -6,7 +6,7 @@ This project uses Excel to analyze Kickstarter campaign data. The data is used t
 
 ### Purpose
 Louise, our client, is a playwright interested in producing a play. She wants to use Kickstarter to crowdfund her campaign. She requested to perform an analysis using crowdfunding data of similar plays. The results produced by this report would ultimately help her determine if she should proceed with producing the play. 
-This analysis was performed using Excel's formula functionalities, data filtering, and visualization tools.
+This analysis will be conducted using Excel's formula functionalities, data filtering, and visualization tools.
 
 ## Analysis and Challenges:
  
