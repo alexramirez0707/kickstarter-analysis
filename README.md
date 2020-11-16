@@ -57,4 +57,6 @@ _**One conclusion that can be drawn about the Outcomes based on Goals is:**_
 
 ### Possible tables and/or graphs that we can be created are:
 1. I believe it would be beneficial to create a column within the Kickstarter sheet to see the _Duration of Campaign_. I'm curious to know if a short duration or deadline enables donors to act faster. Does a longer deadline cause contributors to donate at a slower rate?
-	2. I think this information can be paired with donation incentivization 
+2. Louise was curious to explore other international markets. Perhaps it would be beneficial to see how launch dates and goal amount affect other countries. 
+	+ Do colder European countries launch more plays throughout the year since their citizens remain indoors?
+	+ Do international holidays and seasons on a different yearly cycle than the US, affect donations differently? Perhaps international market data would show that plays are more or less successful than the US.
